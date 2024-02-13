@@ -1,8 +1,8 @@
 # MoneyMorph
 
-MoneyMorph is a currency converter app that provides a seamless solution for all your currency exchange needs. With MoneyMorph, you can easily convert between different currencies with real-time exchange rates.
+MoneyMorph is a currency converter app that provides a seamless solution for all your currency exchange needs. <br/> With MoneyMorph, you can easily convert between different currencies with real-time exchange rates.
 
-## View Live -> https://gleeful-cannoli-4233f6.netlify.app/
+ View Live -> https://gleeful-cannoli-4233f6.netlify.app/
 
 ## Features
 
@@ -17,6 +17,11 @@ MoneyMorph is a currency converter app that provides a seamless solution for all
 - React
 - Tailwind CSS
 - Currency-API for exchange rates
+
+## Screenshot
+
+![Screenshot](https://github.com/harshgitdeep/MoneyMorph/assets/88957566/a3b1c936-78db-422a-a91c-4f396e938038)
+
 
 ## Getting Started
 
